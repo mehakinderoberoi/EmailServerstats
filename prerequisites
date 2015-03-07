@@ -1,0 +1,5 @@
+Some prerequisites as mentioned on the page are :
+debian based linux distro (this should work on any other distro with small if any adjustments)
+python 2.7
+mail server (I use exim4 as usual)
+vnstat, for debian install with
